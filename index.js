@@ -1,6 +1,6 @@
 
 const tablo ={
-    title : "Bizim Tablo",
+    title : "Our Table",
     width: 120,
     columns: [
         {
@@ -22,18 +22,18 @@ const tablo ={
     rows: [
         {
         id: 1,
-        name: "Herbert",
-        role: "Admin"
+        name: "Zeynep",
+        role: "Web Developer"
     },
     {
         id: 2,
-        name: "Stefan",
-        role: "Moderator"
+        name: "Mustafa",
+        role: "QA Tester"
     },
     {
         id: 3,
-        name: "John",
-        role: "Moderator"
+        name: "Nur",
+        role: "Designer"
     }
 ]
 

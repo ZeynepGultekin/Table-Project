@@ -1,11 +1,11 @@
 # TerminalTable
-Terminal Table Example for class FbW47-2
+
 
          BeispielTabelle
 
 | ID | Vorname | E-Mail           |
 |----|---------|------------------|
-| 1  | Sven    | sven@beispiel.de |
+| 1  | Zeynep    | zeynep@beispiel.de |
 
 ```js
 const columns =
@@ -31,8 +31,8 @@ const rows =
 [
     {
         id: 1,
-        name: "Sven",
-        email: "sven@beispiel.de"
+        name: "Zeynep",
+        email: "zeynep@beispiel.de"
     }
 ]
 ```
